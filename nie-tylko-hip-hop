@@ -1,43 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
-<title>RNS: Nie Tylko Hip-Hop</title>
-<description>Radio Nowy Świat Sobotnia Audycja Nie Tylko Hip-Hop</description>
-<link>http://archiwumnowyswiat.top</link>
+<title>RNŚ: Nie Tylko Hip-Hop</title>
+<description>Sobotnią audycję Nie Tylko Hip-Hop w Radiu Nowy Świat prowadzi Mateusz Andruszkiewicz</description>
+<link>https://nowyswiat.online</link>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://raw.githubusercontent.com/radioapka/podcast-feed/master/nie-tylko-hip-hop.jpg" />
 <language>pl</language>
 <item>
-    <title>Nie Tylko Hip-Hop 2020-08-01 13:00</title>
-    <itunes:summary>Sobotnia Audycja Nie Tylko Hip-Hop</itunes:summary>
-    <link>http://archiwumnowyswiat.top</link>
-    <enclosure url="http://archiwumnowyswiat.top/2020-08-01-sobota/2020_08_01_sob_13_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
-    <itunes:duration>01:00:00</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
+<title>Nie Tylko Hip-Hop 2020-09-19 14:00</title>
+<itunes:summary>Mateusz Andruszkiewicz</itunes:summary>
+<link>https://nowyswiat.online</link>
+<enclosure url="http://archiwumnowyswiat.top/2020-09-19-sobota/2020_09_19_sob_14_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
+<itunes:duration>01:00:00</itunes:duration>
 </item>
 <item>
-    <title>Nie Tylko Hip-Hop 2020-08-01 14:00</title>
-    <itunes:summary>Sobotnia Audycja Nie Tylko Hip-Hop</itunes:summary>
-    <link>http://archiwumnowyswiat.top</link>
-    <enclosure url="http://archiwumnowyswiat.top/2020-08-01-sobota/2020_08_01_sob_14_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
-    <itunes:duration>01:00:00</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
+<item>
+<title>Nie Tylko Hip-Hop 2020-09-19 13:00</title>
+<itunes:summary>Mateusz Andruszkiewicz</itunes:summary>
+<link>https://nowyswiat.online</link>
+<enclosure url="http://archiwumnowyswiat.top/2020-09-19-sobota/2020_09_19_sob_13_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
+<itunes:duration>01:00:00</itunes:duration>
+</item>
+<item>    
+<item>
+<title>Nie Tylko Hip-Hop 2020-09-12 14:00</title>
+<itunes:summary>Mateusz Andruszkiewicz</itunes:summary>
+<link>https://nowyswiat.online</link>
+<enclosure url="http://archiwumnowyswiat.top/2020-09-12-sobota/2020_09_12_sob_14_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
+<itunes:duration>01:00:00</itunes:duration>
 </item>
 <item>
-    <title>Nie Tylko Hip-Hop 2020-08-08 13:00</title>
-    <itunes:summary>Sobotnia Audycja Nie Tylko Hip-Hop</itunes:summary>
-    <link>http://archiwumnowyswiat.top</link>
-    <enclosure url="http://archiwumnowyswiat.top/2020-08-08-sobota/2020_08_08_sob_13_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
-    <itunes:duration>01:00:00</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
+<item>
+<title>Nie Tylko Hip-Hop 2020-09-12 13:00</title>
+<itunes:summary>Mateusz Andruszkiewicz</itunes:summary>
+<link>https://nowyswiat.online</link>
+<enclosure url="http://archiwumnowyswiat.top/2020-09-12-sobota/2020_09_12_sob_13_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
+<itunes:duration>01:00:00</itunes:duration>
+</item>
+<item>   
+<item>
+<title>Nie Tylko Hip-Hop 2020-09-05 14:00</title>
+<itunes:summary>Mateusz Andruszkiewicz</itunes:summary>
+<link>https://nowyswiat.online</link>
+<enclosure url="http://archiwumnowyswiat.top/2020-09-05-sobota/2020_09_05_sob_14_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
+<itunes:duration>01:00:00</itunes:duration>
 </item>
 <item>
-    <title>Nie Tylko Hip-Hop 2020-08-08 14:00</title>
-    <itunes:summary>Sobotnia Audycja Nie Tylko Hip-Hop</itunes:summary>
-    <link>http://archiwumnowyswiat.top</link>
-    <enclosure url="http://archiwumnowyswiat.top/2020-08-08-sobota/2020_08_08_sob_14_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
-    <itunes:duration>01:00:00</itunes:duration>
-    <itunes:explicit>no</itunes:explicit>
+<item>
+<title>Nie Tylko Hip-Hop 2020-09-05 13:00</title>
+<itunes:summary>Mateusz Andruszkiewicz</itunes:summary>
+<link>https://nowyswiat.online</link>
+<enclosure url="http://archiwumnowyswiat.top/2020-09-05-sobota/2020_09_05_sob_13_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
+<itunes:duration>01:00:00</itunes:duration>
 </item>
+<item>
+<item>
+<title>Nie Tylko Hip-Hop 2020-08-29 14:00</title>
+<itunes:summary>Mateusz Andruszkiewicz</itunes:summary>
+<link>https://nowyswiat.online</link>
+<enclosure url="http://archiwumnowyswiat.top/2020-08-29-sobota/2020_08_29_sob_14_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
+<itunes:duration>01:00:00</itunes:duration>
+</item>
+<item>
+<item>
+<title>Nie Tylko Hip-Hop 2020-08-29 13:00</title>
+<itunes:summary>Mateusz Andruszkiewicz</itunes:summary>
+<link>https://nowyswiat.online</link>
+<enclosure url="http://archiwumnowyswiat.top/2020-08-29-sobota/2020_08_29_sob_13_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
+<itunes:duration>01:00:00</itunes:duration>
+</item>
+<item>
+<item>
+<title>Nie Tylko Hip-Hop 2020-08-22 14:00</title>
+<itunes:summary>Mateusz Andruszkiewicz</itunes:summary>
+<link>https://nowyswiat.online</link>
+<enclosure url="http://archiwumnowyswiat.top/2020-08-22-sobota/2020_08_22_sob_14_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
+<itunes:duration>01:00:00</itunes:duration>
+</item>
+<item>
+<item>
+<title>Nie Tylko Hip-Hop 2020-08-22 13:00</title>
+<itunes:summary>Mateusz Andruszkiewicz</itunes:summary>
+<link>https://nowyswiat.online</link>
+<enclosure url="http://archiwumnowyswiat.top/2020-08-22-sobota/2020_08_22_sob_13_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
+<itunes:duration>01:00:00</itunes:duration>
+</item>
+<item>
+<item>
+<title>Nie Tylko Hip-Hop 2020-08-15 14:00</title>
+<itunes:summary>Mateusz Andruszkiewicz</itunes:summary>
+<link>https://nowyswiat.online</link>
+<enclosure url="http://archiwumnowyswiat.top/2020-08-15-sobota/2020_08_15_sob_14_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
+<itunes:duration>01:00:00</itunes:duration>
+</item>
+<item>
+<item>
+<title>Nie Tylko Hip-Hop 2020-08-15 13:00</title>
+<itunes:summary>Mateusz Andruszkiewicz</itunes:summary>
+<link>https://nowyswiat.online</link>
+<enclosure url="http://archiwumnowyswiat.top/2020-08-15-sobota/2020_08_15_sob_13_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
+<itunes:duration>01:00:00</itunes:duration>
+</item>
+<item>
+<item>
+<title>Nie Tylko Hip-Hop 2020-08-08 14:00</title>
+<itunes:summary>Mateusz Andruszkiewicz</itunes:summary>
+<link>https://nowyswiat.online</link>
+<enclosure url="http://archiwumnowyswiat.top/2020-08-08-sobota/2020_08_08_sob_14_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
+<itunes:duration>01:00:00</itunes:duration>
+</item>
+<item>
+<item>
+<title>Nie Tylko Hip-Hop 2020-08-08 13:00</title>
+<itunes:summary>Mateusz Andruszkiewicz</itunes:summary>
+<link>https://nowyswiat.online</link>
+<enclosure url="http://archiwumnowyswiat.top/2020-08-08-sobota/2020_08_08_sob_13_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
+<itunes:duration>01:00:00</itunes:duration>
+</item>
+<item>
+<item>
+<title>Nie Tylko Hip-Hop 2020-08-01 14:00</title>
+<itunes:summary>Mateusz Andruszkiewicz</itunes:summary>
+<link>https://nowyswiat.online</link>
+<enclosure url="http://archiwumnowyswiat.top/2020-08-01-sobota/2020_08_01_sob_14_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
+<itunes:duration>01:00:00</itunes:duration>
+</item>
+<item>
+<item>
+<title>Nie Tylko Hip-Hop 2020-08-01 13:00</title>
+<itunes:summary>Mateusz Andruszkiewicz</itunes:summary>
+<link>https://nowyswiat.online</link>
+<enclosure url="http://archiwumnowyswiat.top/2020-08-01-sobota/2020_08_01_sob_13_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
+<itunes:duration>01:00:00</itunes:duration>
+</item>
+<item>
 </channel>
 </rss>
