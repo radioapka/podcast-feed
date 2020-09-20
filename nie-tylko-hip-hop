@@ -5,16 +5,15 @@
 <link>http://archiwumnowyswiat.top</link>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="http://www.example.com/podcast-icon.jpg" />
+<language>pl</language>
 <!--REPEAT THIS BLOCK FOR EACH EPISODE-->
 <item>
     <title>Nie Tylko Hip-Hop 2020-08-01 13:00</title>
     <itunes:summary>Description of podcast episode content</itunes:summary>
     <link>http://archiwumnowyswiat.top</link>
-    <enclosure url="http://archiwumnowyswiat.top/2020-08-01-sobota/2020_08_01_sob_13_00.RNS.Nie_tylko_hip-hop.aac" length="1024"></enclosure>
-    <pubDate>Thu, 21 Dec 2016 16:01:07 +0000</pubDate>
+    <enclosure url="http://archiwumnowyswiat.top/2020-08-01-sobota/2020_08_01_sob_13_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="1024"></enclosure>
     <itunes:duration>00:32:16</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
-    <guid>http://example.com/podcast-1</guid>
 </item> 
 <!--END REPEAT-->    
 </channel>
