@@ -5,11 +5,11 @@
 <description>Radio Nowy Świat Sobotnia Audycja Nie Tylko Hip-Hop</description>
 <link>http://archiwumnowyswiat.top</link>
 <itunes:explicit>no</itunes:explicit>
-<itunes:image href="http://www.example.com/podcast-icon.jpg" />
+<itunes:image href="https://github.com/radioapka/podcast-feed/blob/master/nie-tylko-hip-hop.png" />
 <language>pl</language>
 <item>
     <title>Nie Tylko Hip-Hop 2020-08-01 13:00</title>
-    <itunes:summary>Sobotnia Audycja Nie Tylko Hip-Hop 2020-08-01 13:00</itunes:summary>
+    <itunes:summary>Sobotnia Audycja Nie Tylko Hip-Hop</itunes:summary>
     <link>http://archiwumnowyswiat.top</link>
     <enclosure url="http://archiwumnowyswiat.top/2020-08-01-sobota/2020_08_01_sob_13_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
     <itunes:duration>01:00:00</itunes:duration>
@@ -17,7 +17,7 @@
 </item>
 <item>
     <title>Nie Tylko Hip-Hop 2020-08-01 14:00</title>
-    <itunes:summary>Sobotnia Audycja Nie Tylko Hip-Hop 2020-08-01 14:00</itunes:summary>
+    <itunes:summary>Sobotnia Audycja Nie Tylko Hip-Hop</itunes:summary>
     <link>http://archiwumnowyswiat.top</link>
     <enclosure url="http://archiwumnowyswiat.top/2020-08-01-sobota/2020_08_01_sob_14_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
     <itunes:duration>01:00:00</itunes:duration>
@@ -25,7 +25,7 @@
 </item>
 <item>
     <title>Nie Tylko Hip-Hop 2020-08-08 13:00</title>
-    <itunes:summary>Sobotnia Audycja Nie Tylko Hip-Hop 2020-08-08 13:00</itunes:summary>
+    <itunes:summary>Sobotnia Audycja Nie Tylko Hip-Hop</itunes:summary>
     <link>http://archiwumnowyswiat.top</link>
     <enclosure url="http://archiwumnowyswiat.top/2020-08-08-sobota/2020_08_08_sob_13_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
     <itunes:duration>01:00:00</itunes:duration>
@@ -33,7 +33,7 @@
 </item>
 <item>
     <title>Nie Tylko Hip-Hop 2020-08-08 14:00</title>
-    <itunes:summary>Sobotnia Audycja Nie Tylko Hip-Hop 2020-08-08 14:00</itunes:summary>
+    <itunes:summary>Sobotnia Audycja Nie Tylko Hip-Hop</itunes:summary>
     <link>http://archiwumnowyswiat.top</link>
     <enclosure url="http://archiwumnowyswiat.top/2020-08-08-sobota/2020_08_08_sob_14_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
     <itunes:duration>01:00:00</itunes:duration>
