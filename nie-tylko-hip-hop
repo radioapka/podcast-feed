@@ -2,14 +2,14 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
 <title>RNS: Nie Tylko Hip-Hop</title>
-<link>http://archiwumnowyswiat.top/<link>
+<link>http://archiwumnowyswiat.top</link>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="http://www.example.com/podcast-icon.jpg" />
 <!--REPEAT THIS BLOCK FOR EACH EPISODE-->
 <item>
     <title>Nie Tylko Hip-Hop 2020-08-01 13:00</title>
     <itunes:summary>Description of podcast episode content</itunes:summary>
-    <link>http://archiwumnowyswiat.top/</link>
+    <link>http://archiwumnowyswiat.top</link>
     <enclosure url="http://archiwumnowyswiat.top/2020-08-01-sobota/2020_08_01_sob_13_00.RNS.Nie_tylko_hip-hop.aac" length="1024"></enclosure>
     <pubDate>Thu, 21 Dec 2016 16:01:07 +0000</pubDate>
     <itunes:duration>00:32:16</itunes:duration>
