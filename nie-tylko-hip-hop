@@ -8,6 +8,36 @@
 <itunes:image href="https://raw.githubusercontent.com/radioapka/podcast-feed/master/nie-tylko-hip-hop.jpg" />
 <language>pl</language>
 <item>
+<title>Nie Tylko Hip-Hop 2020-10-31 14:00</title>
+<itunes:summary>Mateusz Andruszkiewicz</itunes:summary>
+<link>https://nowyswiat.online</link>
+<enclosure url="http://archiwumnowyswiat.top/2020-10-31-sobota/2020_10_31_sob_14_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
+<itunes:duration>01:00:00</itunes:duration>
+<pubDate>Sat, 31 Oct 2020 13:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Nie Tylko Hip-Hop 2020-10-31 13:00</title>
+<itunes:summary>Mateusz Andruszkiewicz</itunes:summary>
+<link>https://nowyswiat.online</link>
+<enclosure url="http://archiwumnowyswiat.top/2020-10-31-sobota/2020_10_31_sob_13_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
+<itunes:duration>01:00:00</itunes:duration>
+<pubDate>Sat, 31 Oct 2020 12:00:00 GMT</pubDate>
+</item>
+<title>Nie Tylko Hip-Hop 2020-10-24 14:00</title>
+<itunes:summary>Mateusz Andruszkiewicz</itunes:summary>
+<link>https://nowyswiat.online</link>
+<enclosure url="http://archiwumnowyswiat.top/2020-10-24-sobota/2020_10_24_sob_14_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
+<itunes:duration>01:00:00</itunes:duration>
+<pubDate>Sat, 24 Oct 2020 13:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Nie Tylko Hip-Hop 2020-10-24 13:00</title>
+<itunes:summary>Mateusz Andruszkiewicz</itunes:summary>
+<link>https://nowyswiat.online</link>
+<enclosure url="http://archiwumnowyswiat.top/2020-10-24-sobota/2020_10_24_sob_13_00.RNS.Nie_tylko_hip-hop.aac" type="audio/mpeg" length="30000000"></enclosure>
+<itunes:duration>01:00:00</itunes:duration>
+<pubDate>Sat, 24 Oct 2020 12:00:00 GMT</pubDate>
+</item>
 <title>Nie Tylko Hip-Hop 2020-10-17 14:00</title>
 <itunes:summary>Mateusz Andruszkiewicz</itunes:summary>
 <link>https://nowyswiat.online</link>
